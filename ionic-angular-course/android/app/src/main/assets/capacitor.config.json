@@ -1,0 +1,7 @@
+{
+  "appId": "com.raja.first.app",
+  "appName": "ionic-angular-course",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "linuxAndroidStudioPath" : "/home/raja/Documents/android-studio/bin/studio.sh"
+}

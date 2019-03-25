@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ionic-angular-course</string>
+    <string name="title_activity_main">ionic-angular-course</string>
+    <string name="package_name">gb.raja.first.app</string>
+    <string name="fileprovider_authority">gb.raja.first.app.fileprovider</string>
+    <string name="custom_url_scheme">gb.raja.first.app</string>
+</resources>
